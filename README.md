@@ -1,0 +1,1 @@
+# Searching-QR-code--Generator.
